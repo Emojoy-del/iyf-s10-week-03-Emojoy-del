@@ -1,4 +1,4 @@
-# Your Name - Week 03 Project
+# Joy nyambura - Week 03 Project
 
 This project is a responsive multi-page personal portfolio website built using HTML5 and CSS3. The goal was to practice building structured webpages, linking multiple pages together, and applying modern layout techniques like Flexbox and Grid.
 
